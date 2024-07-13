@@ -15,5 +15,9 @@
   "workspaces": [
     "src/Codigo_1_backend",
     "src/Codigo_1_frontend"
-  ]
+  ],
+  "dependencies": {
+    "azle": "^0.22.0",
+    "express": "^4.19.2"
+  }
 }
